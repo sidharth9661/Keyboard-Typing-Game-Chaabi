@@ -23,6 +23,7 @@ Follow these steps to run the project on your local machine:
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the application.
+6. Browse on Live Link- 
 
 ## Usage
 - Type the displayed words using the virtual keyboard or your physical keyboard.
@@ -30,5 +31,6 @@ Follow these steps to run the project on your local machine:
 - Correctly typed words will be highlighted as green, and incorrectly typed words will be highlighted as red.
 - The number of correct and incorrect words will be displayed at the end of the game.
 
-## Screenshots 
-<img src="#" alt="ss">
+## Gif & Screenshots 
+<img src="https://github.com/sidharth9661/Keyboard-Typing-Game-Chaabi/blob/master/public/Gif.gif" alt="ss">
+<img src="https://github.com/sidharth9661/Keyboard-Typing-Game-Chaabi/blob/master/public/Keyoard%20typing%20game.jpeg" alt="ss">
